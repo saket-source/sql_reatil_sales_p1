@@ -219,8 +219,8 @@ GROUP BY shift
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
-## Author - Saket Kumar Diwakar 
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/saket-kumar-diwakar/)
 
-Thank you for your support, and I look forward to connecting with you!
+Thank you for your interest in this project! and I look forward to connecting with you!
